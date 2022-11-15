@@ -2,7 +2,7 @@
 
 ## This is the repository created for data science assignments by iNeuron.
 
-Assignment of :- \
+### Assignment of :- \
 Python Basic \
 Python Advanced \
 Machine Learning \
